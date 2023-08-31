@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.fuse_*
+#*
+*.fits
+*.gz
+*~
+*#
